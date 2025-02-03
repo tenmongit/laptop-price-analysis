@@ -39,4 +39,4 @@ For interactive analysis, an interactive Power BI dashboard has been created.
 
 ### Dashboard Screenshot:
 ![Power BI Dashboard](visualizations/page1.jpg)
-![](visualizations/page2.png)
+![](visualizations/page2.jpg)
