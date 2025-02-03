@@ -73,7 +73,6 @@ axes[0][2].set_ylabel('Price ($)')
 axes[0][2].tick_params(axis='x', rotation=45)
 
 plt.tight_layout()
-plt.savefig('visualizations/combined_plots.png', dpi = 300)
 plt.show()
 plt.clf()
 
@@ -84,7 +83,6 @@ sns.barplot(x=brand_avg_price.index, y=brand_avg_price.values, palette='coolwarm
 plt.title('Average price depending on brand')
 plt.xticks(rotation=45)
 plt.ylabel('Average Price ($)')
-plt.savefig('visualizations/average_price_brand.png', dpi = 300)
 plt.show()
 plt.clf()
 
@@ -98,7 +96,10 @@ plt.figure(figsize=(8,5))
 sns.barplot(x=price_segments.index, y=price_segments.values, palette='viridis')
 plt.title('Distribution of laptops by price segments')
 plt.ylabel('Number of laptops')
-plt.savefig('visualizations/price_segments.png', dpi = 300)
 plt.show()
 plt.clf()
+
+print(laptops.dtypes)
+
+
 
