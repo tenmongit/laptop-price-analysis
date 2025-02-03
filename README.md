@@ -31,11 +31,12 @@ This project investigates which features (CPU, RAM, SSD, GPU) most affect the pr
 ### 3. Price Segmentation
 ![Price Segmentation](visualizations/price_segmentation.png)
 
-*Description:* Laptops are divided into four segments: Low-End, Mid-End, High-End, and Luxury. The majority fall into the Low-End and Mid-End segments.
+*Description:* Laptops are divided into four segments: Low-End, Mid-End, High-End, and Luxury. The majority fall into the Mid-End and High-End segments.
 
 ## Power BI Dashboard
 
 For interactive analysis, an interactive Power BI dashboard has been created.
 
 ### Dashboard Screenshot:
-![Power BI Dashboard](visualizations/powerbi_dashboard.png)
+![Power BI Dashboard](visualizations/page1.png)
+![](visualizations/page2.png)
