@@ -29,7 +29,7 @@ This project investigates which features (CPU, RAM, SSD, GPU) most affect the pr
 *Description:* This chart shows the average price per brand, indicating that premium brands such as Apple and Razer tend to have higher prices.
 
 ### 3. Price Segmentation
-![Price Segmentation](visualizations/price_segmentation.png)
+![Price Segmentation](visualizations/price_segmentation.jpg)
 
 *Description:* Laptops are divided into four segments: Low-End, Mid-End, High-End, and Luxury. The majority fall into the Mid-End and High-End segments.
 
@@ -38,5 +38,5 @@ This project investigates which features (CPU, RAM, SSD, GPU) most affect the pr
 For interactive analysis, an interactive Power BI dashboard has been created.
 
 ### Dashboard Screenshot:
-![Power BI Dashboard](visualizations/page1.png)
+![Power BI Dashboard](visualizations/page1.jpg)
 ![](visualizations/page2.png)
